@@ -1,11 +1,11 @@
 # Carlos Robles Pineda
 
 ## 👨🏽 Sobre mí
-- 💻 Apasionado por la informática y nuevas tecnologías
-- 💁🏽‍♂ Trabajo como recepcionista en un camping
+- 💻 Apasionado por la informática y nuevas tecnologías.
+- 💁🏽‍♂ Trabajo como recepcionista en un camping.
 - 🖼️ Dedico mi tiempo libre al diseño gráfico. Puedes ver algunos de mis diseños en [Redbubble](https://www.redbubble.com/people/carlosalberto/shop).
 - **Aventurero**. He visitado 10 países hasta la fecha.
-- Me considero adaptable a nuevos entornos y disfruto aprendiendo y explorando nuevas experiencias.
+- Me considero adaptable a nuevos entornos y disfruto aprendiendo y teniendo nuevas experiencias.
 - Alan Turing es mi ídolo, una persona verdaderamente extraordinaria.
  
 ----
@@ -45,14 +45,14 @@
     </thead>
     <tbody>
         <tr>
-            <td style="text-align: center;"><a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="30" height="30" alt="Logotipo del lenguaje de programación Python"></a></td>
-            <td style="text-align: center;"><a href="https://cran.r-project.org/"><img src="https://www.r-project.org/Rlogo.png" width="30" height="30" alt="Logotipo del lenguaje de programación R"></a></td>
-            <td style="text-align: center;"><a href="https://lisp-lang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg" width="30" height="30" alt="Lisp Logo"></a></td>
+            <td style="text-align: center;"><a href="https://www.python.org/" target=”_blank”><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="30" height="30" alt="Logotipo del lenguaje de programación Python"></a></td>
+            <td style="text-align: center;"><a href="https://cran.r-project.org/" target=”_blank”><img src="https://www.r-project.org/Rlogo.png" width="30" height="30" alt="Logotipo del lenguaje de programación R"></a></td>
+            <td style="text-align: center;"><a href="https://lisp-lang.org/" target=”_blank”><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg" width="30" height="30" alt="Lisp Logo"></a></td>
         </tr>
         <tr>
-            <td style="text-align: center;"><a href="https://es.wikipedia.org/wiki/APL"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/APL_%28programming_language%29_logo.svg" width="30" height="30" alt="Logotipo del lenguaje de programación APL"></a></td>
-            <td style="text-align: center;"><a href="https://www.ruby-lang.org/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="30" height="30" alt="Logotipo del lenguaje de programación Ruby"></a></td>
-            <td style="text-align: center;"><a href="https://es.wikipedia.org/wiki/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30" height="30" alt="Logotipo del lenguaje de programación Javascript"></a></td>
+            <td style="text-align: center;"><a href="https://es.wikipedia.org/wiki/APL" target=”_blank”><img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/APL_%28programming_language%29_logo.svg" width="30" height="30" alt="Logotipo del lenguaje de programación APL"></a></td>
+            <td style="text-align: center;"><a href="https://www.ruby-lang.org/en/" target=”_blank”><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="30" height="30" alt="Logotipo del lenguaje de programación Ruby"></a></td>
+            <td style="text-align: center;"><a href="https://es.wikipedia.org/wiki/JavaScript" target=”_blank”><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30" height="30" alt="Logotipo del lenguaje de programación Javascript"></a></td>
         </tr>
     </tbody>
 </table>
@@ -66,8 +66,8 @@
     </thead>
     <tbody>
         <tr>
-            <td style="text-align: center;"><a href="https://git-scm.com/book/ms/v2/Getting-Started-About-Version-Control"><img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="Logotipo de Git" height="30"></a></td>
-            <td style="text-align: center;"><a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Logotipo de VSCode" height="30"></a></td>
+            <td style="text-align: center;"><a href="https://git-scm.com/book/ms/v2/Getting-Started-About-Version-Control" target=”_blank”><img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="Logotipo de Git" height="30"></a></td>
+            <td style="text-align: center;"><a href="https://code.visualstudio.com/" target=”_blank”><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Logotipo de VSCode" height="30"></a></td>
         </tr>
     </tbody>
 </table>
